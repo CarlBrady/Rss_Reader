@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">rssCA</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="maps_continue">Continue</string>
+    <string name="maps_myloc">Current Location</string>
+    <string name="news_header">News</string>
+    <string name="title_activity_article">ArticleActivity</string>
+    <string name="not_service">Notification</string>s
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_news">NewsActivity</string>
+</resources>
